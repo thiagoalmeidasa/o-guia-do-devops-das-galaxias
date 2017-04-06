@@ -1,3 +1,6 @@
-# My Awesome Book
+# O Guia do DevOps das Galáxias
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Se você é um iniciante do mundo DevOps, este livro foi feito pra você. Com linguagem aberta, informal, muitas referências externas e exemplos, tentarei te mostrar as melhores práticas, ferramentas e cultura que conheço.
+
+Se você tiver alguma dúvida, correção ou sugestão, vá para a seção de [contato](/contato.md).
+
