@@ -4,13 +4,17 @@ Pensei em várias abordagens, top-down vs bottom-up, através de exemplos ou mes
 
 ## Modelos de serviços
 
+O primeiro passo é definir a sua infraestrutura. O serviço, o local
 
-
-### IaaS
+### SaaS
 
 ### PaaS
 
-### SaaS
+#### [OpenShift](https://www.openshift.com/ "OpenShift por Red Hat")
+
+### IaaS
+
+### 
 
 
 
